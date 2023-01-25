@@ -1,0 +1,21 @@
+{
+    "productReviewCriar":{
+        "product_id": 22,
+        "review": "Nice album!",
+        "reviewer": "John Doe",
+        "reviewer_email": "",
+        "rating": 5
+    },
+
+    "productReviewEditar":{
+        "product_id": 22,
+        "review": "",
+        "reviewer": "John Doe",
+        "reviewer_email": "",
+        "rating": 2
+    },
+    "productReviewDeletar":{
+        "force": true
+    }
+    
+}

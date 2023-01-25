@@ -1,0 +1,20 @@
+{
+  "name": "desafio-teste-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.1.0",
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "joi": "^17.7.0"
+  }
+}
